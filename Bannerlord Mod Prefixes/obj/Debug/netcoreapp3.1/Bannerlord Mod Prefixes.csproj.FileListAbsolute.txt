@@ -1,0 +1,13 @@
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\bin\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.exe
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\bin\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.deps.json
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\bin\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.runtimeconfig.json
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\bin\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.runtimeconfig.dev.json
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\bin\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.dll
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\bin\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.pdb
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\obj\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.csprojAssemblyReference.cache
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\obj\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.csproj.CoreCompileInputs.cache
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\obj\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.AssemblyInfoInputs.cache
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\obj\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.AssemblyInfo.cs
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\obj\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.dll
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\obj\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.pdb
+C:\Users\ozpl1\source\repos\Bannerlord Mod Prefixes\Bannerlord Mod Prefixes\obj\Debug\netcoreapp3.1\Bannerlord Mod Prefixes.genruntimeconfig.cache
